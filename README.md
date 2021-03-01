@@ -1,3 +1,3 @@
 # ML-Fraud-Detection
-**<p>Credit card fraud detection through Isolation forest and random forest classifier.</p>**
+**<p>Detecting credit card fraud using classic ML algorithms. Nothing fancy here.</p>**
 
